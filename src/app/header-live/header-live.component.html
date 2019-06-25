@@ -1,0 +1,10 @@
+<mat-toolbar>
+  <a><span class="logo-text">Memories</span></a>
+  <span class="spacer"></span>
+  <button mat-raised-button color="accent" [matMenuTriggerFor]="menu">Let's Explore</button>
+  <mat-menu #menu="matMenu">
+    <button routerLink="/images" mat-menu-item>Images</button>
+    <button routerLink="/videos" mat-menu-item>Videos</button>
+    <button routerLink="/wishes" mat-menu-item>Wishes</button>
+  </mat-menu>
+</mat-toolbar>

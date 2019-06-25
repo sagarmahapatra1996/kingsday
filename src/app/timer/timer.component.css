@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    margin-top: 15em;
+    margin-left: 17%;
+}
+::ng-deep .mat-progress-bar-fill::after {
+    background-color: rgb(130, 168, 26);
+}
+
+::ng-deep .mat-progress-bar-buffer {
+    background: black;
+}
+
+::ng-deep .mat-progress-bar {
+    border-radius: 6px;
+}

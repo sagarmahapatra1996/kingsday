@@ -1,0 +1,16 @@
+.content-container{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 100px;
+    margin-left: 10%;
+    background-color: rgb(213, 131, 224);
+    width: 75%;
+    max-height: 75%;
+    border-radius: 15px;
+}
+.content-text{
+    padding: 10px;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}

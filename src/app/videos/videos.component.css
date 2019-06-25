@@ -1,0 +1,21 @@
+.video-container{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 75px;
+    margin-left: 20%;
+    background-color: rgb(213, 131, 224);
+    width: max-content;
+    height: max-content;
+}
+.text-container{
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    width: max-content;
+    height: max-content;
+}
+.dance-practise-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: azure;
+}

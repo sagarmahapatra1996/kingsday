@@ -1,0 +1,58 @@
+.mat-toolbar{
+    border-bottom: 0.3px solid;
+    border-bottom-color:#5f146d;
+    border-color:#5f146d;
+    background-color:#32063a;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    }
+   .logo-text{
+     color: rgb(174, 63, 184);
+     font-size: 3em;
+     font-family:sans-serif;
+   }
+   .icon{
+     color: aliceblue;
+   }
+    .image {
+        margin: 2px 15px 1px 15px;
+    }
+    
+    .logo-text {
+        font-size: 28px;
+        font-weight: bold;
+        margin-left: 4px;
+    }
+    
+    .spacer {
+        flex: 1 1 auto;
+    }
+    
+    .account-logo {
+        font-size: 17px;
+        margin-top: 17px;
+        margin-right: 5px;
+        cursor: pointer;
+    }
+    
+    .placer {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 4px;
+        margin-right: 70px;
+    }
+  
+    .example-container {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .example-container > * {
+      width: 100%;
+    }
+  .video-player{
+    margin-left: 25%;
+    margin-top: 10%;
+  }
