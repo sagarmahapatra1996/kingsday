@@ -1,2 +1,2 @@
 # kingsday
-A collection of memories presented as an angular website to my bestfriend on his birthday
+A Collection of memories presented as an Angular Website to my bestfriend on his birthday
